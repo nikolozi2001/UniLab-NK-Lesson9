@@ -40,13 +40,15 @@
     position: relative;
 }
 .popular h2 {
-    font-family: 'MuseoModerno', cursive;
-    font-size: 32px;
+    font-family: 'Archy EDT';
+    font-size: 40px;
     margin: 8px auto 24px auto;
     text-transform: capitalize;
 }
 .nav-li {
-    height: auto;
+	height: auto;
+	font-family: 'Archy EDT';
+	font-size: 20px;
     text-transform: uppercase;
     margin: auto 16px;
 }
