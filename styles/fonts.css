@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Pierre Dingbats';
-    src: url('ZapfDingbats.eot');
-    src: url('ZapfDingbats.eot?#iefix') format('embedded-opentype'),
-        url('ZapfDingbats.woff2') format('woff2'),
-        url('ZapfDingbats.woff') format('woff'),
-        url('ZapfDingbats.ttf') format('truetype'),
-        url('ZapfDingbats.svg#ZapfDingbats') format('svg');
+    src: url('../fonts/ZapfDingbats.eot');
+    src: url('../fonts/ZapfDingbats.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ZapfDingbats.woff2') format('woff2'),
+        url('../fonts/ZapfDingbats.woff') format('woff'),
+        url('../fonts/ZapfDingbats.ttf') format('truetype'),
+        url('../fonts/ZapfDingbats.svg#ZapfDingbats') format('svg');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -13,12 +13,12 @@
 
 @font-face {
     font-family: 'Archy EDT';
-    src: url('ArchyEDT-Bold.eot');
-    src: url('ArchyEDT-Bold.eot?#iefix') format('embedded-opentype'),
-        url('ArchyEDT-Bold.woff2') format('woff2'),
-        url('ArchyEDT-Bold.woff') format('woff'),
-        url('ArchyEDT-Bold.ttf') format('truetype'),
-        url('ArchyEDT-Bold.svg#ArchyEDT-Bold') format('svg');
+    src: url('../fonts/ArchyEDT-Bold.eot');
+    src: url('../fonts/ArchyEDT-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ArchyEDT-Bold.woff2') format('woff2'),
+        url('../fonts/ArchyEDT-Bold.woff') format('woff'),
+        url('../fonts/ArchyEDT-Bold.ttf') format('truetype'),
+        url('../fonts/ArchyEDT-Bold.svg#ArchyEDT-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
