@@ -15,7 +15,7 @@
     max-width: 122px;
 }
 .navigation {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pierre Dingbats', sans-serif;
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
@@ -78,12 +78,12 @@
     border-radius: 10px 10px 0px 0px;
 }
 .b-text {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pierre Dingbats', sans-serif;
     padding: 16px;
 }
 
 .b-text h3 {
-    font-family: 'MuseoModerno', cursive;
+    font-family: 'Archy EDT', sans-serif;
     font-size: 24px;
     text-transform: capitalize;
     margin-bottom: 16px;
@@ -103,7 +103,7 @@
     display: block;
 } 
 .morel {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pierre Dingbats', sans-serif;
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
@@ -135,7 +135,7 @@ ion-icon {
     margin-left: 16px;
 }
 .f-ul {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pierre Dingbats', sans-serif;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
